@@ -1,0 +1,36 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  body {
+    color: white;
+    font-family: Roboto, sans-serif;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  :root {
+    --purple-bg: #290742;
+    --dark-bg: #170027;
+    --button-bg: #9e6dc2;
+    --white: #fff;
+    --light-purple: #fbf6ff;
+    --green: #4fff4b;
+  }
+  
+  h3 {
+    cursor: pointer;
+  }
